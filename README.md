@@ -106,13 +106,13 @@ gh auth status
 예:
 
 ```bash
-export GITHUB_TOKEN="YOUR_GITHUB_TOKEN"
+export GITHUB_TOKEN="***"
 ```
 
 또는 `~/.hermes/.env` 같은 파일에 저장해 두고 로드할 수 있습니다.
 
 ```bash
-GITHUB_TOKEN=YOUR_GITHUB_TOKEN
+GITHUB_TOKEN=***
 ```
 
 ### 장점
